@@ -4,7 +4,8 @@
   "description": "react, babel, webpack, less, hot reload server",
   "main": "index.js",
   "scripts": {
-    "start": "node ./server.js"
+    "start": "node server.js",
+    "lint": "eslint app"
   },
   "repository": {
     "type": "git",
@@ -28,6 +29,8 @@
     "babel-preset-react": "^6.5.0",
     "babel-preset-react-hmre": "^1.1.1",
     "css-loader": "^0.23.1",
+    "eslint": "^2.6.0",
+    "eslint-plugin-react": "^4.2.3",
     "express": "^4.13.4",
     "json-loader": "^0.5.4",
     "less": "^2.6.1",

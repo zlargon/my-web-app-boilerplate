@@ -8,3 +8,4 @@
 * webpack
 * less
 * hot reload server
+* eslint
