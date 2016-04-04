@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/zlargon/my-web-app-boilerplate#readme",
   "dependencies": {
-    "normalize.css": "^3.0.3",
+    "normalize.css": "^4.0.0",
     "react": "^0.14.8",
     "react-dom": "^0.14.8"
   },
