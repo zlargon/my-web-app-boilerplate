@@ -16,7 +16,7 @@ var config = {
   devtool: 'eval',
   entry: [
     'webpack-hot-middleware/client',
-    './app/index'
+    './src/index'
   ],
   output: {
     path: __dirname,
