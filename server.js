@@ -13,7 +13,7 @@ var host = '0.0.0.0';
 var port = 3000;
 
 var config = {
-  devtool: 'eval',
+  devtool: 'cheap-module-eval-source-map',
   entry: [
     'webpack-hot-middleware/client',
     './src/index'
