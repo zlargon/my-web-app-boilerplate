@@ -10,6 +10,15 @@
 * hot reload server
 * eslint
 
+## Installation
+
+```bash
+$ cd <YOUR_PROJECT_FOLDER>
+$ curl https://raw.githubusercontent.com/zlargon/my-web-app-boilerplate/master/install.sh | bash
+```
+
+> Notice: All the same files will be overwritten
+
 ## License
 
 MIT
