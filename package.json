@@ -2,21 +2,13 @@
   "name": "my-web-app-boilerplate",
   "version": "0.0.0",
   "description": "react, babel, webpack, less, hot reload server",
-  "main": "index.js",
-  "scripts": {
-    "start": "node server.js",
-    "lint": "eslint src"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/zlargon/my-web-app-boilerplate.git"
-  },
   "author": "zlargon <zlargon@icloud.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/zlargon/my-web-app-boilerplate/issues"
+  "scripts": {
+    "start": "node server.js",
+    "lint": "eslint src",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/zlargon/my-web-app-boilerplate#readme",
   "dependencies": {
     "normalize.css": "^4.1.1",
     "react": "^15.0.1",
